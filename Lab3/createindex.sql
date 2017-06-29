@@ -1,0 +1,1 @@
+CREATE INDEX NameIndex ON lab3.Customers(name,address);
